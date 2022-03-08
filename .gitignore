@@ -1,4 +1,5 @@
-# [KR] 실제 봇 운영에 쓰이는 계정 정보를 담고 있는 DBServerAccount.py 파일을 commit하지 않음
+# [KR] 실제 봇 운영에 쓰이는 계정 정보를 담고 있는 DBServerAccount.py 파일을 추적하지 않음
+# (단, 서버에는 git update-index --assume-unchanged ./DBServerAccount.py 명령을 이용해 남겨 둠)
 # [EN] Ignore file:DBServerAccount.py that contains real account informations.
 DBServerAccount.py
  
